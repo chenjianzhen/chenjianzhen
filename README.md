@@ -1,2 +1,1 @@
-# chenjianzhen
-git入门练习
+git 学习需要花时间，这是废话
